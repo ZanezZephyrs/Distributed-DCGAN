@@ -1,0 +1,6 @@
+[rank: 0] Epoch 0 took: 1513.6888 seconds
+--------------
+[rank: 0] Epoch 0 took: 1505.1782 seconds
+--------------
+[rank: 0] Epoch 0 took: 1510.0523 seconds
+--------------

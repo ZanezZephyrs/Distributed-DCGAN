@@ -1,0 +1,27 @@
+[rank: 5] Epoch 0 took: 680.5558 seconds
+[rank: 6] Epoch 0 took: 680.5604 seconds
+[rank: 1] Epoch 0 took: 680.5647 seconds
+[rank: 2] Epoch 0 took: 680.5655 seconds
+[rank: 0] Epoch 0 took: 680.5675 seconds
+[rank: 7] Epoch 0 took: 680.5732 seconds
+[rank: 3] Epoch 0 took: 680.5748 seconds
+[rank: 4] Epoch 0 took: 680.5802 seconds
+--------------
+[rank: 1] Epoch 0 took: 680.4746 seconds
+[rank: 4] Epoch 0 took: 680.4777 seconds
+[rank: 2] Epoch 0 took: 680.4796 seconds
+[rank: 3] Epoch 0 took: 680.4781 seconds
+[rank: 7] Epoch 0 took: 680.4790 seconds
+[rank: 5] Epoch 0 took: 680.4866 seconds
+[rank: 0] Epoch 0 took: 680.4900 seconds
+[rank: 6] Epoch 0 took: 680.4906 seconds
+--------------
+[rank: 0] Epoch 0 took: 683.1523 seconds
+[rank: 6] Epoch 0 took: 683.1563 seconds
+[rank: 4] Epoch 0 took: 683.1701 seconds
+[rank: 3] Epoch 0 took: 683.1725 seconds
+[rank: 2] Epoch 0 took: 683.1771 seconds
+[rank: 5] Epoch 0 took: 683.1773 seconds
+[rank: 7] Epoch 0 took: 683.1794 seconds
+[rank: 1] Epoch 0 took: 683.1815 seconds
+--------------

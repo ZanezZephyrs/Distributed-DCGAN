@@ -1,0 +1,6 @@
+begin: ter 03 mai 2022 23:23:24 -03
+end: ter 03 mai 2022 23:35:01 -03
+begin: ter 03 mai 2022 23:35:01 -03
+end: ter 03 mai 2022 23:46:43 -03
+begin: ter 03 mai 2022 23:46:43 -03
+end: ter 03 mai 2022 23:58:25 -03
